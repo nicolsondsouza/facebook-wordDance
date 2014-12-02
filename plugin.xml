@@ -16,9 +16,6 @@
 
     <license>Apache 2.0</license>
 
-    <preference name="738622862852250" />
-    <preference name="Word Dance" />
-
     <engines>
         <!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
         <!-- Requires > 3.5.0 because of the custom Framework tag for Android [CB-6698] -->
